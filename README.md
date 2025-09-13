@@ -18,7 +18,7 @@ related items, structures, and bosses for each biome</p>
 <img src="kayu.jpg">
 <img src="naga.jpg">
 <img src="yeti.jpg">
-<h1>Where is the download?<h1>
+<h1>Where is the download</h1>
 <p>here is the download
 <a href="https://bedrock-hub.blogspot.com/2025/07/mowzies-mobs.html?m=1" download>download</a>
 <p>Connect in whatsapp 896-8579-977 :3</p>
